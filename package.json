@@ -1,0 +1,14 @@
+{
+  "name": "@faultless/npm-training",
+  "version": "0.0.2",
+  "description": "A package for npm training",
+  "repository": "https://github.com/Faultless/npm-training",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Serge R. Kamel",
+  "license": "MIT",
+  "dependencies": {}
+}
